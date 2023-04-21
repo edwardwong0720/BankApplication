@@ -1,6 +1,6 @@
 Banking Application
 
-It is a REST API based application developed using JAVA springboot ReactJS for the front end. 
+REST API based application developed using JAVA springboot ReactJS for the front end. 
 
 The following APIs are implemented:
 
